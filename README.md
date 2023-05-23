@@ -1,1 +1,1 @@
-# getremote
+# gitremote
